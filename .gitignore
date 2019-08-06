@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Kaggle/
+*.json
+kaggle.txt
+*.tgz
+/Part1/
+data/
+__pycache__/
+.DS_Store
